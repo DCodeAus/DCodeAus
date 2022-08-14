@@ -2,6 +2,7 @@
 # Hi, I'm DCodeAus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 #
+<!-- 
 <table>
 <tr>
   <td valign="center">
@@ -15,7 +16,7 @@
 <td >
 
 </table>
-
+-->
 <!--
 **DCodeAus/DCodeAus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

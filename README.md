@@ -12,7 +12,8 @@
 <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DCodeAus&theme=highcontrast&hide_border=true" alt="DCodeAus" /> </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DCodeAus&theme=dracula&hide_border=true)
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--
 **DCodeAus/DCodeAus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

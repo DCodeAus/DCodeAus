@@ -1,7 +1,7 @@
 # Hi, I'm DCodeAus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-* 🌱 I am currently coding in **JavaScript/Typescript** 
-* Also interested in **Python**, **Perl**, **Ruby**, **Bash** **Cyber Security**, **SQL**, **Anything AI** and **Integration and Middleware**.
+* 🌱 I am currently coding mainly in **JavaScript/Node/Typescript** 
+* :clipboard: Also interested in **Python**, **Perl**, **Ruby**, **Bash** **Cyber Security**, **SQL**, **Anything AI** and **Integration and Middleware**.
 * 🎯 My Goal is to Contribute to as many **open source projects** as possible, maintaining a constant learning ethos.
 * :octocat: I’m looking to collaborate on any projects you may have.
 

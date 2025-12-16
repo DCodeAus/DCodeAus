@@ -16,9 +16,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DCodeAus/DCodeAus/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DCodeAus/DCodeAus/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/DCodeAus/DCodeAus/output/pacman-contribution-graph.svg">
+  
 </picture>
-
+<img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/DCodeAus/DCodeAus/output/pacman-contribution-graph.svg">
 _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DCodeAus&theme=dracula&hide_border=true)
 -->

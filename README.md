@@ -50,7 +50,7 @@ Generated with thanks to [abozanona](https://abozanona.github.io/pacman-contribu
 - 📫 How to reach me: Open an issue on any of my repositories
 - 💬 Interested in collaborating? Check out my pinned projects below
 - :octocat: **GitHub:** [@DCodeAus](https://github.com/DCodeAus)
-⚡ **Fun fact:** I love tinkering with new technologies and building projects that solve real problems, AI has helped make super personal software, and also play the role of teacher.
+- ⚡ **Fun fact:** I love tinkering with new technologies and building projects that solve real problems, AI has helped make super personal software, and also play the role of teacher.
 
 
 

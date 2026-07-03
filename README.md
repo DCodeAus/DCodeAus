@@ -3,7 +3,7 @@
 ## About Me
 
 - 🌱 Currently coding in **JavaScript/Node.js/TypeScript**
-- 🎓 Studying **Networking (TNE10005)** at Swinburne Online
+- 🎓 Studying **IT** at University
 - 🔒 Interested in **Cyber Security, Python, Bash, SQL, AI**
 - 🚀 Goal: Contribute to open source projects and maintain a learning mindset
 - :octocat: Happy to collaborate on projects — reach out!

@@ -1,6 +1,6 @@
 # Hi, I'm Daniel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Software developer in Australia, working in **integration and middleware** and writing mostly **Python** and **JavaScript/TypeScript**. On the side I'm studying IT part-time at uni, and building small tools that solve real problems.
+**Integration engineer** in Australia, writing mostly **Python** and **JavaScript/TypeScript**. On the side I'm studying IT part-time at uni, and building small tools that solve real problems.
 
 **Ethos:** continual learning and integration.
 
@@ -30,6 +30,8 @@ Software developer in Australia, working in **integration and middleware** and w
 **Interested in:** Cyber security · Networking and infrastructure · Integration and middleware · AI and automation
 
 **How I learn:** by building. AI has made genuinely personal software possible, and it makes a pretty good teacher too.
+
+**Outside of work:** tinkering with Raspberry Pis and e-ink displays: name badges, a [Bitcoin ticker](https://github.com/DCodeAus/Pi_Projects), and whatever the next idea is.
 
 ---
 

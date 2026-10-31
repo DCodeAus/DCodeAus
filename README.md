@@ -1,30 +1,37 @@
-# Hi, I'm DCodeAus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Daniel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## About Me
+Software developer in Australia, working in **integration and middleware** and writing mostly **Python** and **JavaScript/TypeScript**. On the side I'm studying IT part-time at uni, and building small tools that solve real problems.
 
-- 🌱 Currently coding in **JavaScript/Node.js/TypeScript**
-- 🎓 Studying **IT** at University
-- 🔒 Interested in **Cyber Security, Python, Bash, SQL, AI**
-- 🚀 Goal: Contribute to open source projects and maintain a learning mindset
-- :octocat: Happy to collaborate on projects — reach out!
+**Ethos:** continual learning and integration.
+
+🌐 **[dcodeaus.github.io](https://dcodeaus.github.io/)**
 
 ---
 
-## Tech Stack
+## Things you can try right now
 
-**Languages & Frameworks**
-- JavaScript / TypeScript / Node.js
-- Python / Bash / SQL
-- HTML / CSS
+- 👕 **[Off the Peg](https://dcodeaus.github.io/WardrobeTracker/)**: a wardrobe tracker that shows what your clothes actually cost per wear
+- 🤖 **[AI Explained](https://dcodeaus.github.io/aiExplained/)**: a beginner's guide to LLMs with interactive demos and quizzes
+- 🏁 **[Build Days Hackathons](https://dcodeaus.github.io/hackathon-tracker/)**: upcoming hackathons, build days and AI meetups around Australia
+- 🌦️ **[Typing Weather](https://dcodeaus.github.io/typingWeatherTracker/)**: your typing rhythm turned into a weather report
 
-**Areas of Interest**
-- Cybersecurity
-- Networking & Infrastructure
-- AI & Automation
-- Integration & Middleware
+## Tools I've built
+
+- 📚 **[Atlassian Confluence Scraping](https://github.com/DCodeAus/AtlassianConfluenceScraping)**: moves a team's docs from Confluence to Azure DevOps Wiki or SharePoint, no admin rights needed
+- 🔋 **[Codex Battery Monitor](https://github.com/DCodeAus/macCodexBatteryUsageMonitor)**: diagnoses battery drain from screen-capturing AI agents on Apple silicon
+- 🗂️ **[Save Safari Tabs](https://github.com/DCodeAus/SaveSafariTabs)**: saves every open tab to Markdown before an exam or hackathon
 
 ---
 
+## What I work with
+
+**Languages:** Python · JavaScript · TypeScript · Node.js · Bash · PowerShell · SQL · HTML/CSS
+
+**Interested in:** Cyber security · Networking and infrastructure · Integration and middleware · AI and automation
+
+**How I learn:** by building. AI has made genuinely personal software possible, and it makes a pretty good teacher too.
+
+---
 
 ## Contribution Graph
 
@@ -36,7 +43,6 @@
 
 Generated with thanks to [abozanona](https://abozanona.github.io/pacman-contribution-graph/)
 
-
 ## Streak 🔥
 <p align="center">
 <a href="https://git.io/streak-stats">
@@ -44,13 +50,8 @@ Generated with thanks to [abozanona](https://abozanona.github.io/pacman-contribu
 </a>
 </p>
 
-
 ## Get In Touch
 
-- 📫 How to reach me: Open an issue on any of my repositories
-- 💬 Interested in collaborating? Check out my pinned projects below
+- 💬 Want to collaborate or have a question? Open an issue on any of my repositories
+- 🌐 **Homepage:** [dcodeaus.github.io](https://dcodeaus.github.io/)
 - :octocat: **GitHub:** [@DCodeAus](https://github.com/DCodeAus)
-- ⚡ **Fun fact:** I love tinkering with new technologies and building projects that solve real problems, AI has helped make super personal software, and also play the role of teacher.
-
-
-

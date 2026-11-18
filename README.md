@@ -17,6 +17,7 @@
 
 ## Tools I've built
 
+- 📏 **[Agent Rules](https://github.com/DCodeAus/agent-rules)**: rules-file templates for AI coding agents that work with any model or tool, plus a linter that catches rules likely to go stale
 - 📚 **[Atlassian Confluence Scraping](https://github.com/DCodeAus/AtlassianConfluenceScraping)**: moves a team's docs from Confluence to Azure DevOps Wiki or SharePoint, no admin rights needed
 - 🔋 **[Codex Battery Monitor](https://github.com/DCodeAus/macCodexBatteryUsageMonitor)**: diagnoses battery drain from screen-capturing AI agents on Apple silicon
 - 🗂️ **[Save Safari Tabs](https://github.com/DCodeAus/SaveSafariTabs)**: saves every open tab to Markdown before an exam or hackathon

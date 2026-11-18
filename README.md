@@ -14,9 +14,13 @@
 - 🤖 **[AI Explained](https://dcodeaus.github.io/aiExplained/)**: a beginner's guide to LLMs with interactive demos and quizzes
 - 🏁 **[Build Days Hackathons](https://dcodeaus.github.io/hackathon-tracker/)**: upcoming hackathons, build days and AI meetups around Australia
 - 🌦️ **[Typing Weather](https://dcodeaus.github.io/typingWeatherTracker/)**: your typing rhythm turned into a weather report
+- ✋ **[Finger Pulley Lab](https://dcodeaus.github.io/finger-pulley-lab/)**: an interactive hand and 3D finger showing how tendons and pulleys work, including trigger finger
+- 🔐 **[Offline Code Lab](https://dcodeaus.github.io/totp-offline-lab/)**: how authenticator codes work without internet, with a 3D demo and a live code calculation
 
 ## Tools I've built
 
+- 📏 **[Agent Rules](https://github.com/DCodeAus/agent-rules)**: rules-file templates for AI coding agents that work with any model or tool, plus a linter that catches rules likely to go stale
+- 🌹 **[Rosé All Night](https://github.com/DCodeAus/dusk-rose-theme)**: a low eye-strain VS Code theme (dark and light) with matching terminal colours
 - 📚 **[Atlassian Confluence Scraping](https://github.com/DCodeAus/AtlassianConfluenceScraping)**: moves a team's docs from Confluence to Azure DevOps Wiki or SharePoint, no admin rights needed
 - 🔋 **[Codex Battery Monitor](https://github.com/DCodeAus/macCodexBatteryUsageMonitor)**: diagnoses battery drain from screen-capturing AI agents on Apple silicon
 - 🗂️ **[Save Safari Tabs](https://github.com/DCodeAus/SaveSafariTabs)**: saves every open tab to Markdown before an exam or hackathon
